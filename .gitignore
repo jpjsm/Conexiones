@@ -1,5 +1,6 @@
 ## Project specific ignores
-[Dd]ata/ ## let's keep family specific data private
+## let's keep family specific data private
+[Dd]ata/
 
 
 # Byte-compiled / optimized / DLL files
