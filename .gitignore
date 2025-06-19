@@ -1,3 +1,7 @@
+## Project specific ignores
+[Dd]ata/ ## let's keep family specific data private
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
